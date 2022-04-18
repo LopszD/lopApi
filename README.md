@@ -1,1 +1,1 @@
-# lopApi
+# Minecraft Factions API
