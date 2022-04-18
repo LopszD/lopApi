@@ -1,1 +1,1 @@
-# Minecraft Factions API
+# Minecraft Factions API - OpenSource
