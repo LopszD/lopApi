@@ -1,0 +1,115 @@
+name: WandyAPI
+main: com.wandy.api.Main
+version: 1.0-SNAPSHOT
+author: [Leonardo]
+commands:
+  gamemode:
+    aliases: [gm]
+  clear:
+    aliases: [limpar]
+  invsee:
+  suporte:
+  hat:
+  tp:
+  tpall:
+  duvida:
+  tphere:
+    aliases: [puxar]
+  speed:
+  desbugar:
+  promover:
+  rebaixar:
+  god:
+  head:
+  fly:
+  kill:
+  killmobs:
+  macumba:
+  tpall:
+  top:
+    aliases: [subir]
+  heal:
+  limparchat:
+  dia:
+  noite:
+  rocket:
+  saircomestilo:
+  thor:
+  kick:
+  feed:
+    aliases: [fome]
+  vanish:
+    aliases: [v]
+  title:
+  give:
+  say:
+  reiniciar:
+  spawn:
+  vip:
+  cores:
+  toggle:
+  chat:
+  back:
+  findchest:
+  fertilizar:
+  compactar:
+    aliases: [block]
+  item:
+  staff:
+  piada:
+  check:
+  especiais:
+  luz:
+    aliases: [lanterna]
+  mobstack:
+  derreter:
+  findplayer:
+  enchant:
+  lore:
+  api:
+  arena:
+    aliases: [arenas]
+  chatfake:
+  poke:
+  rank:
+  punir:
+    aliases: [punish]
+  esconder:
+  craft:
+  manutencao:
+  redstone:
+  slimechunk:
+    aliases: [slime]
+  boosterdrop:
+  potions:
+  loja:
+  tpacancelar:
+  lixeira:
+  borda:
+  drops:
+  macumbeiro:
+  mobspawner:
+  skills:
+  boosterexp:
+  poder:
+  efeitos:
+  coletar:
+  inventario:
+  mana:
+  buff:
+  arena:
+  checar:
+  colocartnt:
+  reparar:
+  pot:
+  haste:
+  gravar:
+  genio:
+  divulgar:
+  maldicao:
+  tpa:
+  tpcancelar:
+  tpaceitar:
+  tprecusar:
+  yt:
+    aliases: [requisitos, youtuber]
